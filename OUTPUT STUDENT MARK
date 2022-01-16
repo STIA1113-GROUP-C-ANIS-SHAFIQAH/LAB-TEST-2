@@ -1,0 +1,8 @@
+Enter mark for student 1 : 56
+Enter mark for student 2 : 101
+INVALID ! PLEASE TRY AGAIN.
+Enter mark for student 2 : -1
+INVALID ! PLEASE TRY AGAIN.
+Enter mark for student 2 : 99
+Enter mark for student 3 : 45
+The average is : 66.67
